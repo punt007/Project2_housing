@@ -146,6 +146,10 @@ The model can be used to predict the price of property in Bangkok, Nonthaburi, a
 
 The model can explain up to 65% of data, and the have error margin approximately 1.2 million Baht. 
 
-Interesting Finding from this model is
-- Number of Baht has the most impact on price of property
+Interesting Finding from this model:
+- Number of Bathroom has the most impact on price of property
+- Watthana district has the highest coefficient
+- Samutprakarn province has the lowest coefficient
+
+
 
